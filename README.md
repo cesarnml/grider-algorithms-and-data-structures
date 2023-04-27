@@ -1,0 +1,139 @@
+# Grider - Algorithms and Data Structures Course
+
+- [Grider - Algorithms and Data Structures Course](#grider---algorithms-and-data-structures-course)
+  - [Lessons](#lessons)
+
+
+## Lessons
+
+- [ ] Lesson 001 - How to Get Help 
+- [ ] Lesson 002 - The All Important Coding Interview
+- [ ] Lesson 003 - Getting Better at Coding Questions
+- [ ] Lesson 004 - Environment Setup
+- [ ] Lesson 005 - Repo Test Setup
+- [ ] Lesson 006 - First Question! Reverse String
+- [ ] Lesson 007 - String Reversal, Solution #1
+- [ ] Lesson 008 - String Reversal, Solution #2
+- [ ] Lesson 009 - String Reversal, Solution #3
+- [ ] Lesson 010 - Debugger Statements
+- [ ] Lesson 011 - Palindromes
+- [ ] Lesson 012 - Palindromes, Solution #1
+- [ ] Lesson 013 - Palindromes, Alternative Solution
+- [ ] Lesson 014 - Reversing an Int
+- [ ] Lesson 015 - Reversing an Int Solution
+- [ ] Lesson 016 - Max Chars Problem
+- [ ] Lesson 017 - Max Chars Character Map
+- [ ] Lesson 018 - Max Chars Solution
+- [ ] Lesson 019 - Max Chars Solution Continued
+- [ ] Lesson 020 - FizzBuzz Problem Statement
+- [ ] Lesson 021 - Solving FizzBuzz with Style
+- [ ] Lesson 022 - Array Chunk Problem Statement
+- [ ] Lesson 023 - Chunk Solution #1
+- [ ] Lesson 024 - More on Chunk
+- [ ] Lesson 025 - Chunk Solution #2
+- [ ] Lesson 026 - Even more on Chunk!
+- [ ] Lesson 027 - What are Anagrams?
+- [ ] Lesson 028 - Solving Anagrams
+- [ ] Lesson 029 - Another Way to Tackle Anagrams
+- [ ] Lesson 030 - Understanding Capitalization
+- [ ] Lesson 031 - Capitalization Solution #1
+- [ ] Lesson 032 - How Else Can We Capitalize?
+- [ ] Lesson 033 - The Steps Question
+- [ ] Lesson 034 - Steps Solution #1
+- [ ] Lesson 035 - Steps Solution #1 Continued
+- [ ] Lesson 036 - Step Up Your Steps Game
+- [ ] Lesson 037 - More on Steps
+- [ ] Lesson 038 - Pyramids Vs Steps
+- [ ] Lesson 039 - Pyramid Solution #1
+- [ ] Lesson 040 - Pyramid Solution #2
+- [ ] Lesson 041 - Get Your Vowels
+- [ ] Lesson 042 - Finding Vowels
+- [ ] Lesson 043 - Another Way to Find Vowels
+- [ ] Lesson 044 - General Matrix Spirals
+- [ ] Lesson 045 - Spiral Solution
+- [ ] Lesson 046 - More on Spiral
+- [ ] Lesson 047 - What is Runtime Complexity?
+- [ ] Lesson 048 - Determining Complexity
+- [ ] Lesson 049 - More on Runtime Complexity
+- [ ] Lesson 050 - The Fibonacci Series
+- [ ] Lesson 051 - Fibonacci Series Iterative Solution
+- [ ] Lesson 052 - Fibonacci Series Recursive Solution
+- [ ] Lesson 053 - Memoi- ... Mem ... Memoization!
+- [ ] Lesson 054 - I Believe Its Memoization!
+- [ ] Lesson 055 - What's a Data Structure
+- [ ] Lesson 056 - The Queue Data Structure
+- [ ] Lesson 057 - Implementing a Queue
+- [ ] Lesson 058 - What's a Weave
+- [ ] Lesson 059 - How to Weave
+- [ ] Lesson 060 - Stack Data Structure
+- [ ] Lesson 061 - Implementing a Stack 
+- [ ] Lesson 062 - Queue From Stack Question
+- [ ] Lesson 063 - Creating a Queue From Stacks
+- [ ] Lesson 064 - More on Queue From Stack
+- [ ] Lesson 065 - What's a Linked List?
+- [ ] Lesson 066 - Exercise Setup
+- [ ] Lesson 067 - Node Implementation
+- [ ] Lesson 068 - Linked List's Constructor
+- [ ] Lesson 069 - Linked Lists's InsertFirst
+- [ ] Lesson 070 - Solving Insert First
+- [ ] Lesson 071 - Sizing a List
+- [ ] Lesson 072 - Solve for Size
+- [ ] Lesson 073 - Get Over Here, GetFirst!
+- [ ] Lesson 074 - Building GetFirst
+- [ ] Lesson 075 - Find Your Tail with GetLast
+- [ ] Lesson 076 - GetLast Implementation
+- [ ] Lesson 077 - Clear that List
+- [ ] Lesson 078 - Clear Solution
+- [ ] Lesson 079 - Where's My Head, Remove First
+- [ ] Lesson 080 - Building RemoveFirst
+- [ ] Lesson 081 - Bye-Bye Tail with RemoveLast
+- [ ] Lesson 082 - RemoveLast Implementation
+- [ ] Lesson 083 - A New Tail to Tell with InsertLast
+- [ ] Lesson 084 - Adding InsertLast
+- [ ] Lesson 085 - Pick Em Out with GetAt
+- [ ] Lesson 086 - GetAt Solution
+- [ ] Lesson 087 - Remove Anything with RemoveAt
+- [ ] Lesson 088 - RemoveAt Solution
+- [ ] Lesson 089 - Insert Anywhere with InsertAt
+- [ ] Lesson 090 - InsertAt Solution
+- [ ] Lesson 091 - Code Reuse in Linked Lists
+- [ ] Lesson 092 - List Traversal Through ForeEach
+- [ ] Lesson 093 - Brushup on Generators
+- [ ] Lesson 094 - Linked Lists with Iterators
+- [ ] Lesson 095 - Midpoint of a Linked List
+- [ ] Lesson 096 - Midpoint Solution
+- [ ] Lesson 097 - Detecting Linked Lists Loops 
+- [ ] Lesson 098 - Loop Solution
+- [ ] Lesson 099 - From Last Question
+- [ ] Lesson 100 - From Last Solution
+- [ ] Lesson 101 - Trees Overview
+- [ ] Lesson 102 - Node Implementation
+- [ ] Lesson 103 - More on Nodes
+- [ ] Lesson 104 - Tree Implementation
+- [ ] Lesson 105 - Traverse By Breadth
+- [ ] Lesson 106 - Solving for Breadth-First Traversal
+- [ ] Lesson 107 - Depth First Traversal
+- [ ] Lesson 108 - Solving for Depth-First Traversal
+- [ ] Lesson 109 - Level Width Declaration
+- [ ] Lesson 110 - Measuring Level Width
+- [ ] Lesson 111 - What's a Binary Search Tree
+- [ ] Lesson 112 - Binary Search Tree Implementation
+- [ ] Lesson 113 - BST Insertion
+- [ ] Lesson 114 - Do You Contain This?
+- [ ] Lesson 115 - Solving Contains
+- [ ] Lesson 116 - How to Validate a Binary Search Tree
+- [ ] Lesson 117 - More on Validation
+- [ ] Lesson 118 - Solution to Validation
+- [ ] Lesson 119 - What's an Evening System?
+- [ ] Lesson 120 - A Tip on Events
+- [ ] Lesson 121 - Events SOlution
+- [ ] Lesson 122 - How to Build Twitter
+- [ ] Lesson 123 - Sorting Algorithm Overview
+- [ ] Lesson 124 - BubbleSort Implementation
+- [ ] Lesson 125 - BubbleSort Solution
+- [ ] Lesson 126 - How SelectionSort Works
+- [ ] Lesson 127 - Selection Sort Solution
+- [ ] Lesson 128 - MergeSort Overview
+- [ ] Lesson 129 - The Merge Function
+- [ ] Lesson 130 - More on MergeSort
+- [ ] Lesson 131 - I Don't Like Recursion, But Let's Do This Anyways
